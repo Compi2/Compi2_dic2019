@@ -1,6 +1,6 @@
 #importar "UI/frame.b"
 #importar "funciones.m"
-#definir constante 25
+#definir varConst 25
 
 
 zro main(){
