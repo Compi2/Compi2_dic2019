@@ -1,0 +1,39 @@
+{
+	proyecto:{
+		ruta:"/documentos/Entrada1/",
+		nombre:"prueba",
+		correr:"",
+		configuracion:{
+			archivo:{
+				nombre:"prueba.olc",
+				fecha_mod:"dd/mm/yyyy hh:mm:ss"
+			},
+			carpeta:{
+				nombre:"principal",
+				archivo:{
+					nombre:"inicio.r",
+					fecha_mod:"dd/mm/yyyy hh:mm:ss"
+				},
+				archivo:{
+					nombre:"funciones.m",
+					fecha_mod:"dd/mm/yyyy hh:mm:ss"
+				},
+				carpeta:{
+					nombre:"UI",
+					archivo:{
+						nombre:"frame.b",
+						fecha_mod:"dd/mm/yyyy hh:mm:ss"
+					},
+					archivo:{
+						nombre:"lista.m",
+						fecha_mod:"dd/mm/yyyy hh:mm:ss"
+					},
+					archivo:{
+						nombre:"nodo.m",
+						fecha_mod:"dd/mm/yyyy hh:mm:ss"
+					}
+				}
+			}
+		}
+	}
+}
